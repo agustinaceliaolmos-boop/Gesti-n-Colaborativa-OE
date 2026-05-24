@@ -3,8 +3,8 @@ Trabajo Práctico: Gestión Colaborativa, Control de Versiones y Organización E
 # Análisis de Ventas de una Pequeña Empresa
 
 # Integrante
-- Nombre Apellido
-
+- Olmos Agustina Celia
+  
 # Escenario
 Escenario B – Análisis de Ventas
 
